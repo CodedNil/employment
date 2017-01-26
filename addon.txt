@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"DarkRP Employment Addon"
+	"version"			"1"
+	"author_name"		"CodeNil"
+	"info"				"Allows jobs to be employable with automatic wage payment"
+	"override"			"0"
+}
